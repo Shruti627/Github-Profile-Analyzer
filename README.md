@@ -16,6 +16,9 @@ A sleek and responsive web application that allows users to search for GitHub pr
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla JS)  
 - **Styling:** Modern gradient backgrounds, flexbox layout, responsive design  
 - **API:** GitHub REST API  
+## Live Demo
+
+[Click here to view the Live Demo](https://shruti627.github.io/Github-Profile-Analyzer/)
 
 ## ⚡ Installation
 
